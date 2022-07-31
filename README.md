@@ -11,9 +11,11 @@ For this Challenge we analyze different kind of algorithms in order to see the d
 * **Naive Random Oversampling** ***balanced accuracy score:*** 0.6398437216722869 or 63%.
 * **SMOTE Oversampling** ***balanced accuracy score:*** 0.6216172933512213 or 62%.
 * **Undersampling using ClusterCentroids** ***balance accuracy score:*** 0.6216172933512213 or 62%.
-* **SMOTEENN** Combination (Over and Under) Sampling, ***balace accuracy score:*** 0.6357786318898034 or 63%. 
-* **Ensemble Learners.-Balanced Random Forest Classifier** ***balace accuracy score:**
-* **Ensemble Learners.-Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
+* **SMOTEENN** Combination (Over and Under) Sampling, ***balace accuracy score:*** 0.6357786318898034 or 63%.
+
+**Ensemble Learners**
+* **Balanced Random Forest Classifier** ***balace accuracy score:**
+* **Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
 
 
 
