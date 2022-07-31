@@ -9,15 +9,31 @@ For this Challenge we analyze different kind of algorithms in order to see the d
 # Results:
 
 * **Naive Random Oversampling** ***balanced accuracy score:*** 0.6398437216722869 or 63%.
+
+![Naive_Random_Oversampling](/Resources/Naive Random Oversampling.png)
+
 * **SMOTE Oversampling** ***balanced accuracy score:*** 0.6216172933512213 or 62%.
+
+![SMOTE_Oversampling](/Resources/SMOTE Oversampling.png)
+
 * **Undersampling using ClusterCentroids** ***balance accuracy score:*** 0.6216172933512213 or 62%.
+
+![Cluster_Centroids](/Resources/Cluster_Centroids.png)
+
 * **SMOTEENN** Combination (Over and Under) Sampling, ***balace accuracy score:*** 0.6357786318898034 or 63%.
+
+![Smoteen](/Resources/Combination_OverandUnder_Sampling.png)
 
 **Ensemble Learners**
 * **Balanced Random Forest Classifier** ***balace accuracy score:**
+
+![Balance_Random_Forest_Classifier](/Resources/Balanced_Random_Forest_Classifier.png)
+
 * **Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
 
-n
+![Easy_Ensemble_AdaBoost_Classifier](/Resources/EasyEnsembleAdaBoostClassifier.png)
+
+
 
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
