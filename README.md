@@ -17,7 +17,7 @@ For this Challenge we analyze different kind of algorithms in order to see the d
 * **Balanced Random Forest Classifier** ***balace accuracy score:**
 * **Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
 
-
+n
 
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
