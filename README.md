@@ -10,28 +10,28 @@ For this Challenge we analyze different kind of algorithms in order to see the d
 
 * **Naive Random Oversampling** ***balanced accuracy score:*** 0.6398437216722869 or 63%.
 
-![Naive_Random_Oversampling](/Resources/Naive Random Oversampling.png)
+![Naive_Random_Oversampling](/ResourcesP/Naive Random Oversampling.png)
 
 * **SMOTE Oversampling** ***balanced accuracy score:*** 0.6216172933512213 or 62%.
 
-![SMOTE_Oversampling](/Resources/SMOTE Oversampling.png)
+![SMOTE_Oversampling](/ResourcesP/SMOTE Oversampling.png)
 
 * **Undersampling using ClusterCentroids** ***balance accuracy score:*** 0.6216172933512213 or 62%.
 
-![Cluster_Centroids](/Resources/Cluster_Centroids.png)
+![Cluster_Centroids](/ResourcesP/Cluster_Centroids.png)
 
 * **SMOTEENN** Combination (Over and Under) Sampling, ***balace accuracy score:*** 0.6357786318898034 or 63%.
 
-![Smoteen](/Resources/Combination_OverandUnder_Sampling.png)
+![Smoteen](/ResourcesP/Combination_OverandUnder_Sampling.png)
 
 **Ensemble Learners**
 * **Balanced Random Forest Classifier** ***balace accuracy score:**
 
-![Balance_Random_Forest_Classifier](/Resources/Balanced_Random_Forest_Classifier.png)
+![Balance_Random_Forest_Classifier](/ResourcesP/Balanced_Random_Forest_Classifier.png)
 
 * **Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
 
-![Easy_Ensemble_AdaBoost_Classifier](/Resources/EasyEnsembleAdaBoostClassifier.png)
+![Easy_Ensemble_AdaBoost_Classifier](/ResourcesP/EasyEnsembleAdaBoostClassifier.png)
 
 
 
