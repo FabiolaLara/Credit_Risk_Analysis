@@ -48,4 +48,6 @@ This method retrieves an accuracy of more than 98% , the precision an sensitivit
 
 ![Easy_Ensemble_AdaBoost_Classifier](/ResourcesP/EasyEnsembleAdaBoostClassifier.png)
 
-# Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+# Summary:
+
+Altought there is sometimes a small difference in the values retrieved between these methods, it is very important to analyze the values using different methods and at the end take a decisition for the best values retrieved. In these analyzes we ca see that there is not su much difference in results, we can see that just in the case of the las method checked (EasyEnsembleAdaBoostClassifier) retrieved the best confindence for it use, it retrieves a near 100% of f1 score, however we could increase the rank to make wider the analysis and seen if it's values continue being reliable.
