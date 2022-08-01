@@ -30,7 +30,7 @@ This method shows a minor accuracy than the previous ones, the precision is the 
 
 * **SMOTEENN** Combination (Over and Under) Sampling, ***balace accuracy score:*** 0.6357786318898034 or 63%.
 
-In this method the accuracy is 0.6357786318898034 or 63% we can say, giving us uncertainty in using the method, the precision is good, however for each class, the sensitivity is almost the same for the classes, the f1 values retrieves is higher than the three past methods wit more than 70%, we can deduct according the differences in values is non a good choice to evaluate our data.
+In this method the accuracy is 0.6357786318898034 or 63% we can say, giving us uncertainty in using the method, the precision is good, however for each class, the sensitivity is almost the same for the classes, the f1 values retrieves is higher than the three past methods with more than 70%, we can deduct, according the differences in values, is not a good choice to evaluate our data.
 
 ![Smoteen](/ResourcesP/Combination_OverandUnder_Sampling.png)
 
