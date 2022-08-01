@@ -3,7 +3,7 @@ Using Algorithms like: randomOverSample, SMOTE, ClusterCentroids, SMOTEEN
 
 # Overview of the analysis:
 
-For this Challenge we analyze different kind of algorithms in order to see the difference between their results, then we can analyze their outputs by printing final reports to analyze which analyes retrieves an optimal value to determine the accuracy, precision, and sensitivity in those methos, we can also see others values refering to F1 which involves precision and sensitivity at the sme time so we can have a better information while analyzing data.
+For this Challenge we analyze different kind of algorithms in order to see the difference between their results, so it is possible to analyze their outputs by printing final reports retrieving thier optimal values each one, with this methos we can know their accuracy, precision, and sensitivity, we can also see others values like F1 which involves precision and sensitivity at the same time, precision is a measure of how reliable a positive classification is, while `sensitivity` is a measure of how many positive values were actually correctly diagnosed, and `support` values referes to the actual ocurrences of the class in the dataset were taken, so we can have a better landscape of the information.
 
 In ythe next images some values are mention as parrt of the anlysis for each method mentioned, for all methods there are two classes: low_risk and high_risk, while applying these methods we can see 
 
