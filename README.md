@@ -12,6 +12,8 @@ In ythe next images some values are mention as parrt of the anlysis for each met
 
 * **Naive Random Oversampling** ***balanced accuracy score:*** 0.6398437216722869 or 63%.
 
+For this first image the accuracy is low, we can say that just a small part more than 50% of the data were correctly analyzed, and comparing with the report the `precision` shows a 100% good for the class low risk, the `sensitivity` retrieved indicates almost 50% for each class, but f1 values supports a little to precision due is it higher than 80%. 
+
 ![Naive_Random_Oversampling](/ResourcesP/Naive Random Oversampling.png)
 
 * **SMOTE Oversampling** ***balanced accuracy score:*** 0.6216172933512213 or 62%.
