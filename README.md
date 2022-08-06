@@ -37,10 +37,10 @@ In this method the accuracy is 0.6357786318898034 or 63% we can say, giving us u
 **Ensemble Learners**
 * **Balanced Random Forest Classifier** ***balace accuracy score:**
 
-This method wasn´t able to retrieve data, due athecnicall problem unsolved.
+The accuracy in this method is a little bit more of 90%, we can say the confidence is hight while using it, the precision for the low_risk values is 100%, the sensitivity is more than 90% for the low_risk values, and the f1-score is more than 95%, denotaiting a hight percentage in the confidence for using it.
 
 
-![Balance_Random_Forest_Classifier](/ResourcesP/Balanced_Random_Forest_Classifier.png)
+![Balance_Random_Forest_Classifier](/ResourcesP/imbalanced_class_report.png)
 
 * **Easy Ensemble AdaBoost Classifier** ***balace accuracy score:** 0.9896541702993316 or 98%.
 
